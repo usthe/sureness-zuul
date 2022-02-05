@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>TANCLOUD探云 Blog</title>
-        <link>https://hertzbeat.com/en/blog</link>
+        <link>https://hertzbeat.com/sureness-zuul/en/blog</link>
         <description>TANCLOUD探云 Blog</description>
         <lastBuildDate>Sun, 30 Jan 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <copyright>Copyright © 2022 TANCLOUD, Inc.</copyright>
         <item>
             <title><![CDATA[TANCLOUD开源监控系统HertzBeat发布]]></title>
-            <link>https://hertzbeat.com/en/blog/2022/01/30/hertz-beat</link>
+            <link>https://hertzbeat.com/sureness-zuul/en/blog/2022/01/30/hertz-beat</link>
             <guid>/2022/01/30/hertz-beat</guid>
             <pubDate>Sun, 30 Jan 2022 00:00:00 GMT</pubDate>
         </item>

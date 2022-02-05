@@ -1,13 +1,13 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "TANCLOUD探云 Blog",
-    "home_page_url": "https://hertzbeat.com/en/blog",
+    "home_page_url": "https://hertzbeat.com/sureness-zuul/en/blog",
     "description": "TANCLOUD探云 Blog",
     "items": [
         {
             "id": "/2022/01/30/hertz-beat",
             "content_html": "",
-            "url": "https://hertzbeat.com/en/blog/2022/01/30/hertz-beat",
+            "url": "https://hertzbeat.com/sureness-zuul/en/blog/2022/01/30/hertz-beat",
             "title": "TANCLOUD开源监控系统HertzBeat发布",
             "date_modified": "2022-01-30T00:00:00.000Z",
             "author": {

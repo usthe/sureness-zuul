@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://hertzbeat.com/blog</id>
+    <id>https://hertzbeat.com/sureness-zuul/blog</id>
     <title>TANCLOUD探云 Blog</title>
     <updated>2022-01-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://hertzbeat.com/blog"/>
+    <link rel="alternate" href="https://hertzbeat.com/sureness-zuul/blog"/>
     <subtitle>TANCLOUD探云 Blog</subtitle>
-    <icon>https://hertzbeat.com/img/tancloud-logo.svg</icon>
+    <icon>https://hertzbeat.com/sureness-zuul/img/tancloud-logo.svg</icon>
     <rights>Copyright © 2022 TANCLOUD, Inc.</rights>
     <entry>
         <title type="html"><![CDATA[TANCLOUD开源监控系统HertzBeat-赫兹节拍发布]]></title>
         <id>/2022/01/30/hertz-beat</id>
-        <link href="https://hertzbeat.com/blog/2022/01/30/hertz-beat"/>
+        <link href="https://hertzbeat.com/sureness-zuul/blog/2022/01/30/hertz-beat"/>
         <updated>2022-01-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[javalin-sureness sample repository]]></summary>
         <content type="html"><![CDATA[<p><a href="https://github.com/tomsun28/sureness/tree/master/samples/javalin-sureness">javalin-sureness sample repository</a></p><p>Using Sureness to secure Javalin REST API by providing authentication(JWT,Basic,Digest) and authorization(RBAC)</p><h2>What You Will Learn</h2><ul><li>Creating a simple REST API using Javalin</li><li>Learn how to integrate Sureness into a Javalin application</li><li>Learn how to issue a JWT</li><li>Test API authentication - use JWT Auth, Basic Auth, Digest Auth to test the security of the REST API</li><li>Test API authorization - use different users to verify that they can access the REST API</li></ul><p>The tutorial assumes that you know what  JWT, Basic Auth, Digest Auth, RBAC are. If you
