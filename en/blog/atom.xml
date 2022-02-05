@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://hertzbeat.com/en/blog</id>
+    <title>TANCLOUD探云 Blog</title>
+    <updated>2022-01-30T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://hertzbeat.com/en/blog"/>
+    <subtitle>TANCLOUD探云 Blog</subtitle>
+    <icon>https://hertzbeat.com/en/img/tancloud-logo.svg</icon>
+    <rights>Copyright © 2022 TANCLOUD, Inc.</rights>
+    <entry>
+        <title type="html"><![CDATA[TANCLOUD开源监控系统HertzBeat发布]]></title>
+        <id>/2022/01/30/hertz-beat</id>
+        <link href="https://hertzbeat.com/en/blog/2022/01/30/hertz-beat"/>
+        <updated>2022-01-30T00:00:00.000Z</updated>
+        <author>
+            <name>tom</name>
+            <uri>https://github.com/tomsun28</uri>
+        </author>
+    </entry>
+</feed>
